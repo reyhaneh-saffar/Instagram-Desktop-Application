@@ -1,0 +1,127 @@
+.whit_background{
+    -fx-background-color: #fff;
+}
+
+.back-ground2{
+    -fx-background-color: #bcbcbc;
+}
+
+.primary-color{
+    -fx-background-color: #F4F5F9;
+}
+
+.shadow{
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.1), 10, 0, 0, 10);
+}
+
+.sign-button{
+    -fx-background-color: #FFB6C1;
+}
+
+.rect-round{
+    -fx-background-radius: 20;
+}
+
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+.selected{
+    -fx-background-color: #F4F5F9;
+}
+
+.mouse-moved:hover{
+    /*
+    -fx-background-color: #EFEFEF;
+
+     */
+    -fx-background-color : #A9A9A9;
+}
+
+Button{
+    /*
+    -fx-font-size: 15;
+    -fx-border-width: 0 0 4 0;
+    -fx-border-color: yellow green #0d47a1 white;
+     */
+}
+
+.mystyle{
+    -fx-background-color: #87CEFA;
+    -fx-font-size: 15;
+    /*
+    -fx-text-fill: white;
+     */
+
+
+    -fx-border-width: 0 0 1 0;
+    -fx-border-color: yellow green 	#000000  white;
+}
+.mystyle:hover{
+    -fx-background-color: #A9A9A9;
+
+
+}
+.mystyle:pressed{
+    -fx-background-color: 	#696969;
+    -fx-font-size: 12;
+}
+
+
+
+
+
+
+.mystyle2{
+    -fx-background-color: #fff;
+    -fx-background-radius: 15;
+    -fx-font-size: 18;
+    /*
+    -fx-text-fill:
+     */
+
+
+    /*
+    -fx-border-width: 0 0 1 0;
+    -fx-border-color: yellow green 	#000000  white;
+
+     */
+}
+.mystyle2:hover{
+    -fx-background-color: #A9A9A9;
+
+
+}
+.mystyle2:pressed{
+    -fx-background-color: 	#696969;
+    -fx-font-size: 15;
+}
+
+
+.mystyle3{
+    -fx-background-color: #F5F5F5;
+    -fx-background-radius: 20;
+    -fx-font-size: 18;
+    /*
+    -fx-text-fill:
+     */
+
+
+/*
+    -fx-border-width: 0 0 1.2 0;
+    -fx-border-color: yellow green #323234 white;
+
+ */
+
+}
+.mystyle3:hover{
+    -fx-background-color: #A9A9A9;
+
+
+}
+.mystyle3:pressed{
+    -fx-background-color: 	#696969;
+    -fx-font-size: 15;
+}
+
+
