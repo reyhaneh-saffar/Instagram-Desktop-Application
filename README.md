@@ -1,15 +1,4 @@
 # Instagram desktop app
-
-<p align="center">
-  <img src = "readmeContext/head.png" height = "350">
-</p>
-
-## Developers
-
-**Update Galaxy team:**
-- [**Muhammad Karbalaee Shabani**](https://gitlab.com/muhammadksht)
-- [**Reyhaneh Saffar**](https://gitlab.com/rsf122456)
-- [**Hasan Roknabady**](https://gitlab.com/HasanRoknabady)
 \
   \
   _Computer Science students at Shahid Beheshti University_
