@@ -104,9 +104,3 @@ concpets in Java
 To handle numerous clients simultaneously on server-side multi-threading concepts are used. Clients are 
 handled by being passed to a threadpool and shared methods between multiple threads are synchronized to avoid 
 the race condition and data loss
-
-- __**Documentation**__
-
-All classes and methods and packages are documented using Javado.
-\
-[Link to documentations](http://janax-artwork.ir/)
